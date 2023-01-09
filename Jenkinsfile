@@ -13,7 +13,7 @@ stages {
                 steps { echo "deploying my code"}
                         }
         
-        stage('Test') {
+        stage('Test to do some prod') {
                steps { echo "test my final webapp"                    } }
                       }
          }
