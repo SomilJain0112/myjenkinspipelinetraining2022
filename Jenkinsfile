@@ -5,8 +5,7 @@ stages {
         stage('SCM') {
                 steps {
                         echo " git pull my code step1"
-                        echo " git pull my code s
-tep2"
+                        echo " git pull my code step2"
                       }
                      }
 
